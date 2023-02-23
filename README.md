@@ -1,4 +1,4 @@
 # gits-msib4-tugas2
 
 Nama: Yusuf Rizky Yuhansyah
-Universitas Lampung
+Asal Universitas: Universitas Lampung
